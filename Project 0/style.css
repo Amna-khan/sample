@@ -1,0 +1,33 @@
+.h1 {
+    color: blueviolet;
+}
+
+.p {
+    color: chocolate;
+}
+
+.underline {
+
+    text-decoration: underline;
+}
+
+.fs {
+
+        background-color: yellow;
+        width: 600px;
+        height: 400px;
+}
+
+.ss {
+
+        background-color: palevioletred;
+        width: 400px;
+        height: 250px;
+}
+
+.nd1 {
+    background-color: gray;
+        width: 100px;
+        height: 300px;
+        padding: 50px;
+}
